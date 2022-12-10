@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MattNogueira!
 - 👀 I’m interested in back-end programming and game development.
 - 🌱 I’m currently learning advanced use of Django, Python framework, the use of Godot Engine, and more.
-- 💞️ I’m looking to collaborate on game and software development and learn more from now on.
+- 💞️ I’m looking to collaborate on web and mobile software development and learn more from now on.
 - 📫 You can reach me from my email.
