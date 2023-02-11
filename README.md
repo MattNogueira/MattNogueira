@@ -25,7 +25,7 @@
 </p>
 <p>
   <h2>Estatísticas 📊</h2>
-  <div align='center'>
+  <div>
     <img width='49%' src='https://github-readme-stats.vercel.app/api?username=mattnogueira&count_private=true&show_icons=true&theme=gruvbox'/>
     <img align='right' width='49%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mattnogueira&layout=compact&theme=gruvbox'/>
   </div>
