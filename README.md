@@ -27,6 +27,6 @@
   <h2>Estatísticas 📊</h2>
   <div align='center' max-height='180em'>
     <img height='180em' src='https://github-readme-stats.vercel.app/api?username=mattnogueira&count_private=true&show_icons=true&theme=gruvbox'/>
-    <img height='180em' width='300em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mattnogueira&layout=compact'/>
+    <img height='200em' width='400em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mattnogueira&layout=compact'/>
   </div>
 </p>
