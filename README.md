@@ -2,7 +2,6 @@
   <h2 align='center'>Bem Vindo(a) 👋</h2>
   <div>
     <div align='center'>
-      <img width="20%" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a3190797-9289-4ea3-ac7d-1efa1efc028c/d8qazj2-961d554a-be52-4fd3-8a5c-7a7d6c00cc7e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EzMTkwNzk3LTkyODktNGVhMy1hYzdkLTFlZmExZWZjMDI4Y1wvZDhxYXpqMi05NjFkNTU0YS1iZTUyLTRmZDMtOGE1Yy03YTdkNmMwMGNjN2UuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BTXAEmxhGwjkvO_wPr7-F3RPISUCK0CBT86zzMfuH6g' align='right'/>
      </div>
     <div>
        <li>📝 Meu nome é Matheus!</li>
