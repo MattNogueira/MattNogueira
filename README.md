@@ -9,7 +9,7 @@
        <li>💻 Desenvolvedor Fullstack</li>
        <li>📚 Estudando...</li>
        <li>⌚ Trabalhando com projetos WEB</li>
-       <li>🎮 Jogos e anime são hobbies</li>
+       <li>🎮 Jogos são hobbies</li>
        <li>...</li>
     </div>
     <div style="display: inline_block"><br>
