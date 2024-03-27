@@ -5,9 +5,9 @@
      </div>
     <div>
        <li>📝 Meu nome é Matheus!</li>
-       <li>💻 Desenvolvedor Fullstack</li>
+       <li>💻 Desenvolvedor</li>
        <li>📚 Estudando...</li>
-       <li>⌚ Trabalhando com projetos WEB</li>
+       <li>⌚ Trabalhando com projetos WEB e Backend</li>
        <li>🎮 Jogos são hobbies</li>
        <li>...</li>
     </div>
