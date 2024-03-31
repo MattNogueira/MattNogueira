@@ -22,3 +22,12 @@
       <img height='40em' width='30em' src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg'/>
     </div>
   </div>
+</p>
+<p>
+  <h2>Statistics 📊</h2>
+  <div>
+    <img width='45%' src='https://github-readme-stats.vercel.app/api?username=mattnogueira&count_private=true&show_icons=true&theme=gruvbox'/>
+    &nbsp;
+    <img width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mattnogueira&layout=compact&theme=gruvbox'/>
+  </div>
+</p>
