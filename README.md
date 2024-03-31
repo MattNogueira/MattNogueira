@@ -2,7 +2,7 @@
   <h2 align='center'>Bem Vindo(a) 👋</h2>
   <div>
     <div align='center'>
-      <a src='https://github.com/MattNogueira/MattNogueira/blob/main/README.en.md'><img src= "https://img.shields.io/badge/lang-en-red.svg"/></a>
+      <a href='https://github.com/MattNogueira/MattNogueira/blob/main/README.en.md'><img src= "https://img.shields.io/badge/lang-en-red.svg"/></a>
     </div>
     <div>
        <li>📝 Meu nome é Matheus!</li>
