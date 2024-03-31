@@ -2,7 +2,8 @@
   <h2 align='center'>Bem Vindo(a) 👋</h2>
   <div>
     <div align='center'>
-     </div>
+      [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MattNogueira/MattNogueira/blob/main/README.en.md)
+    </div>
     <div>
        <li>📝 Meu nome é Matheus!</li>
        <li>💻 Desenvolvedor</li>
