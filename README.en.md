@@ -1,33 +1,48 @@
-<p align='center'>
-  <h2 align='center'>Welcome 👋</h2>
-  <div>
-    <div align='center'>
-      <a href='https://github.com/MattNogueira/MattNogueira/blob/main/README.md'><img src= "https://img.shields.io/badge/lang-pt--br-green.svg"/></a>
-    </div>
-    <div>
-       <li>📝 My name is Matheus!</li>
-       <li>💻 Developer</li>
-       <li>📚 Studying...</li>
-       <li>⌚ Working in WEB and backend projects</li>
-       <li>🎮 I play games as a hobbie</li>
-       <li>...</li>
-    </div>
-    <div style="display: inline_block"><br>
-      <img height='40em' width='30em' src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'/>
-      <img height='40em' width='30em' src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'/>
-      <img height='40em' width='30em' src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'/>
-      <img height='40em' width='30em' src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'/>
-      <img height='40em' width='30em' src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg'/>
-      <img height='40em' width='30em' src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'/>
-      <img height='40em' width='30em' src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg'/>
-    </div>
-  </div>
-</p>
-<p>
-  <h2>Statistics 📊</h2>
-  <div>
-    <img width='45%' src='https://github-readme-stats.vercel.app/api?username=mattnogueira&count_private=true&show_icons=true&theme=gruvbox'/>
-    &nbsp;
-    <img width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mattnogueira&layout=compact&theme=gruvbox'/>
-  </div>
-</p>
+<div align="center">
+  <h1>Hi, I'm Matheus 👋</h1>
+
+  <a href="https://github.com/MattNogueira/MattNogueira/blob/main/README.md">
+    <img src="https://img.shields.io/badge/lang-pt--br-green.svg" alt="Versão em português" />
+  </a>
+</div>
+
+### About me
+
+- 💻 Developer focused on web and backend projects
+- 📚 Learning and improving with Python, Django, JavaScript, and React
+- 🛠️ I like turning ideas into simple, useful interfaces
+- 🎮 Games are one of my hobbies
+
+### Technologies
+
+<div align="center">
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
+</div>
+
+### Languages
+
+<div align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattNogueira&layout=compact&theme=gruvbox&hide_border=true"
+    alt="Most used languages"
+  />
+</div>
+
+### Find me
+
+<div align="center">
+  <a href="https://github.com/MattNogueira">
+    <img src="https://img.shields.io/badge/GitHub-MattNogueira-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</div>
