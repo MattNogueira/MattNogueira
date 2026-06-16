@@ -39,10 +39,13 @@
   />
 </div>
 
-### Find me
+### Find me also
 
 <div align="center">
-  <a href="https://github.com/MattNogueira">
-    <img src="https://img.shields.io/badge/GitHub-MattNogueira-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://gitlab.com/MattNogueira">
+    <img src="https://img.shields.io/badge/GitLab-MattNogueira-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+  <a href="https://www.linkedin.com/in/mattnogueira/">
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Nogueira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
