@@ -29,16 +29,6 @@
   <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
 </div>
 
-### Languages
-
-<div align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattNogueira&layout=compact&theme=gruvbox&hide_border=true"
-    alt="Most used languages"
-  />
-</div>
-
 ### Find me also
 
 <div align="center">
